@@ -1,0 +1,24 @@
+{
+    "name": "@mingnn/ming-node-mqko0",
+    "version": "1.0.0",
+    "description": "Convert to the text you want.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mingnn/ming-node-mqko0.git"
+    },
+    "keywords": [
+        "string",
+        "convert"
+    ],
+    "author": "mingnn",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mingnn/ming-node-mqko0/issues"
+    },
+    "homepage": "https://github.com/mingnn/ming-node-mqko0#readme",
+    "dependencies": {
+        "@vcvckw/convstr": "^1.0.11",
+        "@mingnn/ming-node-mqko0": "^1.0.0"
+    }
+}
